@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\exceptions\\insufficientstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\exceptions\\insufficientstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\exceptions\\conflictexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\exceptions\\conflictexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.domain\\store.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB78DA1E-4245-D0E6-18A4-9B0C0AAEE307}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\store.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49500570-EF8D-C490-4365-DAE4D764028A}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.infrastructure\\store.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49500570-EF8D-C490-4365-DAE4D764028A}|Store.Infrastructure\\Store.Infrastructure.csproj|solutionrelative:store.infrastructure\\store.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22A87D-5F4C-7F2A-8124-40BDA0CDE9D8}|Store.IntegrationTests\\Store.IntegrationTests.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.integrationtests\\store.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD22A87D-5F4C-7F2A-8124-40BDA0CDE9D8}|Store.IntegrationTests\\Store.IntegrationTests.csproj|solutionrelative:store.integrationtests\\store.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22A87D-5F4C-7F2A-8124-40BDA0CDE9D8}|Store.IntegrationTests\\Store.IntegrationTests.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.integrationtests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD22A87D-5F4C-7F2A-8124-40BDA0CDE9D8}|Store.IntegrationTests\\Store.IntegrationTests.csproj|solutionrelative:store.integrationtests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB3D85-EB15-60DB-ECC4-403D9529DDF4}|Store.UnitTests\\Store.UnitTests.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.unittests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB3D85-EB15-60DB-ECC4-403D9529DDF4}|Store.UnitTests\\Store.UnitTests.csproj|solutionrelative:store.unittests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294C7896-2054-B21A-4811-AFDBFF2128B1}|Store.Api\\Store.Api.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294C7896-2054-B21A-4811-AFDBFF2128B1}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49500570-EF8D-C490-4365-DAE4D764028A}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49500570-EF8D-C490-4365-DAE4D764028A}|Store.Infrastructure\\Store.Infrastructure.csproj|solutionrelative:store.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6575D3B-9D54-3663-9862-B6D4692F6180}|Store.Application\\Store.Application.csproj|c:\\users\\admin\\desktop\\storeapp\\store\\store.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6575D3B-9D54-3663-9862-B6D4692F6180}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsufficientStockException.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\InsufficientStockException.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Exceptions\\InsufficientStockException.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\InsufficientStockException.cs",
+              "RelativeToolTip": "Store.Domain\\Exceptions\\InsufficientStockException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:37:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Store.Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:36:27.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConflictException .cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\ConflictException .cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Exceptions\\ConflictException .cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Exceptions\\ConflictException .cs",
+              "RelativeToolTip": "Store.Domain\\Exceptions\\ConflictException .cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:35:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:34:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBCwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:34:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBCwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:33:57.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:33:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Store.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:32:31.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Enums\\Role.cs",
+              "RelativeToolTip": "Store.Domain\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:31:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Store.Domain",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Store.Domain.csproj",
+              "RelativeDocumentMoniker": "Store.Domain\\Store.Domain.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Domain\\Store.Domain.csproj",
+              "RelativeToolTip": "Store.Domain\\Store.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T17:29:29.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Store.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Store.Infrastructure\\Store.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
+              "RelativeToolTip": "Store.Infrastructure\\Store.Infrastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T16:39:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.IntegrationTests\\Class1.cs",
+              "RelativeDocumentMoniker": "Store.IntegrationTests\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.IntegrationTests\\Class1.cs",
+              "RelativeToolTip": "Store.IntegrationTests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:37:00.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.UnitTests\\Class1.cs",
+              "RelativeDocumentMoniker": "Store.UnitTests\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.UnitTests\\Class1.cs",
+              "RelativeToolTip": "Store.UnitTests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:36:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Api\\Class1.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Api\\Class1.cs",
+              "RelativeToolTip": "Store.Api\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:35:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Store.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Store.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:35:11.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Store.IntegrationTests.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.IntegrationTests\\Store.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "Store.IntegrationTests\\Store.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.IntegrationTests\\Store.IntegrationTests.csproj",
+              "RelativeToolTip": "Store.IntegrationTests\\Store.IntegrationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T16:40:55.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Store.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\StoreApp\\Store\\Store.Application\\Class1.cs",
+              "RelativeToolTip": "Store.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:33:52.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
